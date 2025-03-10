@@ -1,7 +1,3 @@
-To create a README file for your weather app, you should include sections like project title, description, features, installation steps, and how to use it. Here's a sample README content tailored to your weather app:
-
----
-
 # Weather App - Version 1
 
 ### **By Toobna Aftab**
